@@ -1,6 +1,6 @@
 # DiffieHellman Key Generator
 
-- **Generate secret key using Hellman algorithm.**
+- **Generate secret key using Diffie-Hellman algorithm.**
 
 - **Support larg numbers.**
 
